@@ -14,4 +14,4 @@ git clone git@github.com:mint-system/odoo-apps-spreadsheet.git ./addons/spreadsh
 
 | Module | Summary |
 | --- | --- |
-| [meilisearch_base](meilisearch_base) |         Setup meilisearch connection and provide document mixin. |
+| [spreadsheet_board_user_acl](spreadsheet_board_user_acl) |         Restricted access to spreadsheet dashboards app. |
