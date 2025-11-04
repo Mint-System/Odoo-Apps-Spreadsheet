@@ -13,5 +13,6 @@ git clone git@github.com:Mint-System/Odoo-Apps-Spreadsheet.git ./addons/spreadsh
 ## Available modules
 
 | Module | Summary |
-| ------ | ------- |
-|        |         |
+| --- | --- |
+| [spreadsheet_board_user_acl](spreadsheet_board_user_acl) |         Restricted access to spreadsheet dashboards app. |
+| [spreadsheet_dashboard_disable_share](spreadsheet_dashboard_disable_share) |         Disable the share feature of dashboards. |
