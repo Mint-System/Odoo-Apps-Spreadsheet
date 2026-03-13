@@ -5,7 +5,7 @@
         Disable the share feature of dashboards.
     """,
     "author": "Mint System GmbH",
-    "website": "https://github.com/Mint-system/",
+    "website": "https://www.mint-system.ch/",
     "category": "Repository",
     "development_status": "Production/Stable",
     "version": "19.0.1.0.0",
@@ -15,9 +15,4 @@
     "application": False,
     "auto_install": False,
     "images": ["images/screen.png"],
-    "assets": {
-        "web.assets_backend": [
-            "spreadsheet_dashboard_disable_share/static/src/components/dashboard_action.xml",
-        ],
-    },
 }

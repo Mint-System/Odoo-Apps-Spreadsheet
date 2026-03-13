@@ -1,0 +1,2 @@
+- Open the dashboard
+- There shouldn't be any share button
