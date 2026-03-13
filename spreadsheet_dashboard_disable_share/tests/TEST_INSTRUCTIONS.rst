@@ -1,2 +1,3 @@
 - Open the dashboard
-- There shouldn't be any share button
+- Try to click on the share button
+- No sharing link should be shown
